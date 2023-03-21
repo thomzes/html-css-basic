@@ -24,6 +24,7 @@ function generateBiodata() {
 }
 
 console.log(nama);
+console.log(usia);
 generateBiodata();
 
 
